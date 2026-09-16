@@ -2,6 +2,6 @@
 Name - Zaw Thant Khaing<br>
 ID - 6805140017
 
-## Assignment
+## Assignments
 - Assignment_01
 - Assignment_02(6805140017.ipynb)
