@@ -4,4 +4,4 @@ ID - 6805140017
 
 ## Assignments
 - Assignment_01
-- Assignment_02(6805140017.ipynb)
+- Assignment_02
